@@ -16,3 +16,5 @@ target
 /Cargo.lock
 /tooling/bench/tests/Cargo.lock
 /yarn.lock
+
+.npmrc
